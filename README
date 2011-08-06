@@ -1,0 +1,8 @@
+orientationchange.js
+
+- Adds support for the orientationchange event in browsers that do not support it
+- only returns 0, 90
+
+invoke using the jquery bind method:
+
+$(window).bind('orientationchange', someFunction)
