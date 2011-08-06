@@ -75,4 +75,4 @@
         }
         timeoutId = setTimeout(checkOrientation, 50);
     };
-})(jQuery);
+})(jQuery); 
